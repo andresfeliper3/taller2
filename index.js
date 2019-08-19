@@ -737,4 +737,4 @@ function deleteSongN(list,n) {
 
 
 
-module.exports = {maxList,minList,sumAll,average,last,pop,invert,up,push,nthFibo,fiboList,preserveNumbers, insert,existsIn,removeX,greaterThan,mapeo,search,removeN,searchPlace,orderIndex,orderInsert,index,even,square};
+module.exports = {maxList,minList,sumAll,average,last,pop,invert,up,push,nthFibo,fiboList,preserveNumbers, insert,existsIn,removeX,greaterThan,mapeo,search,removeN,searchPlace,orderIndex,orderInsert,index,even,square,searchByName,searchByArtist,sumSeconds,playlistDuration,badSongs,bestSongs,namesDurations,maxRating,searchByRating,deleteByRating,bestToWorst,deleteSongN};
